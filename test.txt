@@ -1,7 +1,3 @@
 Hello, world
 Next(3rd) line - type your name
-Winner4ik loves
-
-Winner4ik hates
-vegetables
-
+No
